@@ -16,30 +16,17 @@ Here are some ideas to get you started:
 ## About Me
 
 # Hi there, I'm Harish Padmanabhan! 👋  
-🚀 **Data Engineer | AI & Analytics Enthusiast | Cloud Practitioner**  
+🚀 **Data Engineer | AI & Analytics Enthusiast **  
 
 🔍 **Currently pursuing**: M.S. in Data Analytics Engineering @ Northeastern University *(Graduating May 2026)*  
 💡 Passionate about **big data, cloud computing, and data-driven solutions**  
-🌱 **Exploring**: AI-powered analytics, data lakes, and scalable data pipelines  
-💻 **Tech Stack**: Python | SQL | MongoDB | AWS | Azure | Apache Spark | Kafka  
-📊 **Visualization**: Power BI | Tableau  
-📩 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/hp24/) | [Email](mailto:padmanabhan.h@northeastern.edu)  
+🌱 **Exploring**: AI-powered analytics, data lakes, and scalable data pipelines    
 
-![Profile Views](https://komarev.com/ghpvc/?username=harishpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
+<p align="right"> ![Profile Views](https://komarev.com/ghpvc/?username=harishpadmanabhan&label=Profile%20views&color=0e75b6&style=flat) </p>
 
 ---
 
-## 🛠 Technical Skills
-
-- **Programming:** Python, SQL, Java, C++  
-- **Cloud & Big Data:** AWS, Azure, Apache Spark, Kafka  
-- **Database Management:** MySQL, PostgreSQL, MongoDB  
-- **Data Visualization:** Power BI, Tableau  
-- **Certifications:** Google Cloud Certified - Cloud Digital Leader  
-
----
-
-## 🖥️ Languages & Tools
+## 🖥️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,6 +37,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -78,5 +71,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-⚡ **"Data is the new oil. Extract, refine, and create impact."** 🚀
