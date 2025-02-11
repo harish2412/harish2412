@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💡 Passionate about **big data, cloud computing, and data-driven solutions**  
 🌱 **Exploring**: AI-powered analytics, data lakes, and scalable data pipelines    
 
-<p align="right"> ![Profile Views](https://komarev.com/ghpvc/?username=harishpadmanabhan&label=Profile%20views&color=0e75b6&style=flat) </p>
+![Profile Views](https://komarev.com/ghpvc/?username=harishpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
