@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 ## About Me
 
-# Hi there, I'm Harish Padmanabhan! 👋  
+# Hi there, I'm Harish Padmanabhan! 
 *Data Engineer | AI & Analytics Enthusiast*
 
-🔍 **Currently pursuing**: M.S. in Data Analytics Engineering @ Northeastern University *(Graduating May 2026)*  
-💡 Passionate about **big data, cloud computing, and data-driven solutions**  
-🌱 **Exploring**: AI-powered analytics, data lakes, and scalable data pipelines    
+ **Currently pursuing**: M.S. in Data Analytics Engineering @ Northeastern University *(Graduating May 2026)*  
+ Passionate about **big data, cloud computing, and data-driven solutions**  
+ **Exploring**: AI-powered analytics, data lakes, and scalable data pipelines    
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harishpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Featured Repositories
+## Featured Repositories
 
 🔹 [Real-Time Data Pipeline with Apache Kafka](https://github.com/harishpadmanabhan/kafka-pipeline) - Scalable event-driven data streaming using Kafka & Spark.
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌍 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="mailto:padmanabhan.h@northeastern.edu" target="_blank">
