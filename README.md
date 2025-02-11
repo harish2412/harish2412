@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## About Me
 
 # Hi there, I'm Harish Padmanabhan! 👋  
-🚀 **Data Engineer | AI & Analytics Enthusiast **  
+*Data Engineer | AI & Analytics Enthusiast*
 
 🔍 **Currently pursuing**: M.S. in Data Analytics Engineering @ Northeastern University *(Graduating May 2026)*  
 💡 Passionate about **big data, cloud computing, and data-driven solutions**  
