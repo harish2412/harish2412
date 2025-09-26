@@ -24,9 +24,9 @@ My projects range from **ETL pipelines** and **analytics dashboards** to **LLM a
 | [Text2SQL_LLM](https://github.com/harish2412/Text2SQL_LLM) | Schema-aware SQL generation with LLMs | PyTorch, T5, FAISS |
 | [Amazon_Books_ETL](https://github.com/harish2412/Amazon_Books_ETL) | End-to-end ETL pipeline | Airflow, Docker, PostgreSQL |
 | [Stroke_Prediction](https://github.com/harish2412/Stroke_Prediction) | Health risk prediction | Scikit-learn, Pandas |
+| [EV_Charging_Analysis](https://github.com/harish2412/EV_Charging_Analysis) | Usage & demand forecasting | SQL, Tableau, Python |
 | [EEG_Classification](https://github.com/harish2412/EEG_Classification) | Neural signals classification | Scikit-learn, NumPy |
 | [RFM_Customer_Segmentation](https://github.com/harish2412/RFM_Customer_Segmentation) | Customer behavior analysis | Python, Matplotlib |
-| [EV_Charging_Analysis](https://github.com/harish2412/EV_Charging_Analysis) | Usage & demand forecasting | SQL, Tableau, Python |
 
 ---
 
@@ -50,12 +50,9 @@ I fine-tuned T5 with Retrieval-Augmented Generation to translate text → SQL qu
 
 ---
 
-### 📊 GitHub Stats
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish2412&show_icons=true&theme=default&hide=prs)
-
-![Profile Views](https://komarev.com/ghpvc/?username=harish2412&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=harishpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ### 🔗 Let’s Connect
-[Portfolio](https://harishpadmanabhan.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hp24) · [GitHub](https://github.com/harish2412)
+[Portfolio](https://harishpadmanabhan.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hp24) · [GitHub](https://github.com/harish2412) . [Email](padmanabhan.h@northeastern.edu) .
