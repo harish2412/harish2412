@@ -55,4 +55,4 @@ I fine-tuned T5 with Retrieval-Augmented Generation to translate text → SQL qu
 ---
 
 ### 🔗 Let’s Connect
-[Portfolio](https://harishpadmanabhan.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hp24) · [GitHub](https://github.com/harish2412) . [Email](padmanabhan.h@northeastern.edu) .
+[Portfolio](https://harishpadmanabhan.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hp24) · [GitHub](https://github.com/harish2412) . [Email](padmanabhan.h@northeastern.edu) 
