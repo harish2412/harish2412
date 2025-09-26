@@ -1,73 +1,61 @@
 <!--
 **harish2412/harish2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-## About Me
+## Hi, I’m Harish Padmanabhan  
 
-# Hi there, I'm Harish Padmanabhan! 
-*Data Engineer | AI & Analytics Enthusiast*
-
- **Currently pursuing**: M.S. in Data Analytics Engineering @ Northeastern University *(Graduating May 2026)*  
- Passionate about **big data, cloud computing, and data-driven solutions**  
- **Exploring**: AI-powered analytics, data lakes, and scalable data pipelines    
-
-![Profile Views](https://komarev.com/ghpvc/?username=harishpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
+Graduate student in Data Analytics Engineering at Northeastern University.  
+I work at the intersection of **data engineering, machine learning, and large language models**.  
+My projects range from **ETL pipelines** and **analytics dashboards** to **LLM applications** and **applied ML models**.  
 
 ---
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🔗 Featured Projects
+[![Text2SQL_LLM](https://img.shields.io/badge/Text2SQL_LLM-NLP%20%7C%20LLM-blue)](https://github.com/harish2412/Text2SQL_LLM)
+[![Amazon_Books_ETL](https://img.shields.io/badge/Amazon_Books_ETL-Data%20Engineering-orange)](https://github.com/harish2412/Amazon_Books_ETL)
+[![EV_Charging_Analysis](https://img.shields.io/badge/EV_Charging_Analysis-Analytics%20%7C%20SQL-green)](https://github.com/harish2412/EV_Charging_Analysis)
+[![Stroke_Prediction](https://img.shields.io/badge/Stroke_Prediction-ML%20%7C%20Healthcare-red)](https://github.com/harish2412/Stroke_Prediction)
 
 ---
 
-## Featured Repositories
-
-🔹 [Real-Time Data Pipeline with Apache Kafka](https://github.com/harishpadmanabhan/kafka-pipeline) - Scalable event-driven data streaming using Kafka & Spark.
-
-🔹 [Cloud Data Lake Architecture](https://github.com/harishpadmanabhan/cloud-data-lake) - End-to-end Data Lake implementation using AWS S3, Glue, and Athena.
-
-🔹 [ETL Workflow with Apache Airflow](https://github.com/harishpadmanabhan/etl-airflow) - Automating ETL pipelines with Apache Airflow & Postgres.
-
-🔹 [Big Data Analysis with PySpark](https://github.com/harishpadmanabhan/pyspark-analysis) - Processing large datasets using Apache Spark and MLlib.
-
-🔹 [Machine Learning for Time Series Forecasting](https://github.com/harishpadmanabhan/time-series-ml) - ML-based predictive analytics for time series data.
+### 📂 Projects Overview
+| Project | Focus | Tech |
+|---------|-------|------|
+| [Text2SQL_LLM](https://github.com/harish2412/Text2SQL_LLM) | Schema-aware SQL generation with LLMs | PyTorch, T5, FAISS |
+| [Amazon_Books_ETL](https://github.com/harish2412/Amazon_Books_ETL) | End-to-end ETL pipeline | Airflow, Docker, PostgreSQL |
+| [Stroke_Prediction](https://github.com/harish2412/Stroke_Prediction) | Health risk prediction | Scikit-learn, Pandas |
+| [EEG_Classification](https://github.com/harish2412/EEG_Classification) | Neural signals classification | Scikit-learn, NumPy |
+| [RFM_Customer_Segmentation](https://github.com/harish2412/RFM_Customer_Segmentation) | Customer behavior analysis | Python, Matplotlib |
+| [EV_Charging_Analysis](https://github.com/harish2412/EV_Charging_Analysis) | Usage & demand forecasting | SQL, Tableau, Python |
 
 ---
 
-## Connect with Me
+### 🌟 Spotlight: Text2SQL_LLM
+I fine-tuned T5 with Retrieval-Augmented Generation to translate text → SQL queries on complex schemas.  
+- Achieved **44.9% execution accuracy** and **31.1% exact match** on the Spider dataset  
+- Reduced schema hallucinations with **FAISS + SentenceTransformers**  
+- Goal: make database querying accessible to analysts without SQL expertise  
 
-<p align="left">
-  <a href="mailto:padmanabhan.h@northeastern.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hp24/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+---
+
+### ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish2412&show_icons=true&theme=default&hide=prs)
+
+![Profile Views](https://komarev.com/ghpvc/?username=harish2412&color=blue)
+
+---
+
+### 🔗 Let’s Connect
+[Portfolio](https://harishpadmanabhan.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hp24) · [GitHub](https://github.com/harish2412)
